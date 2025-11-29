@@ -1,0 +1,9 @@
+name: DndMinis
+main: com.rschao.plugins.dnd.DndMinis
+version: 1.0
+api-version: 1.21
+authors:
+  - RSChao
+depend:
+  - CommandAPI
+  - UltimateAdvancementAPI
